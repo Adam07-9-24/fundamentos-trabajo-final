@@ -30,28 +30,20 @@ Stay connected and explore more about my work:
 - 🐙 **GitHub**: [Adam07-9-24](https://github.com/Adam07-9-24)  
   Check out my repositories and contributions to various projects.
 
-  ## 📜 Test cases 📜 ##
+## 📜 Test cases 📜 ##
   
-# Opción 1:
-# Si seleccionas la opción 1, el sistema debería devolver:
-{
-  'id': 1,
-  'customer_name': 'Juan Pérez',
-  'pizza_type': 'Pepperoni',
-  'quantity': 2,
-  'total_price': 20.0
-}
-{
-  'id': 2,
-  'customer_name': 'Ana Gómez',
-  'pizza_type': 'Hawaiana',
-  'quantity': 1,
-  'total_price': 12.0
-}
-{
-  'id': 3,
-  'customer_name': 'Carlos Ruiz',
-  'pizza_type': 'Vegetariana',
-  'quantity': 3,
-  'total_price': 30.0
-}
+#Option 1:
+# If you select option 1, the system should return:
+
+| **id** | **customer_name** | **pizza_type** | **quantity** | **total_price** |
+|--------|-------------------|----------------|--------------|-----------------|
+| 1      | Juan Pérez        | Pepperoni      | 2            | 20.0            |
+| 2      | Ana Gómez         | Hawaiana       | 1            | 12.0            |
+| 3      | Carlos Ruiz       | Vegetariana    | 3            | 30.0            |
+
+#Option 2:
+# If you select option 2, the system should return:
+
+| **Order ID** | **Customer**   | **Pizza Type** | **Quantity** | **Total Price** |
+|--------------|----------------|----------------|--------------|-----------------|
+| 2            | Ana Gómez      | Hawaiana       | 1            | 12.0            |
