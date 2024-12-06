@@ -1,0 +1,30 @@
+==========================================
+                Receipt
+==========================================
+ID: 1
+Customer: Juan Pérez
+Pizza Type: Pepperoni
+Quantity: 2
+Total Price: $20.00
+------------------------------------------
+ID: 2
+Customer: Ana Gómez
+Pizza Type: Hawaiana
+Quantity: 1
+Total Price: $12.00
+------------------------------------------
+ID: 3
+Customer: Carlos Ruiz
+Pizza Type: Vegetariana
+Quantity: 3
+Total Price: $30.00
+------------------------------------------
+ID: 5
+Customer: carlos
+Pizza Type: americana
+Quantity: 10
+Total Price: $200.00
+------------------------------------------
+==========================================
+          Thank you for your purchase!
+==========================================
