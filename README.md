@@ -1,36 +1,31 @@
-# Sistema de Gestión de Recibos de Pizza
+# Pizza Receipt Management System
 
-Este proyecto es un sistema básico para la gestión de recibos de pizza. Permite visualizar, agregar, actualizar, eliminar y guardar recibos de manera interactiva.
+📜 **Descripción** 📜  
+👨‍💻 This program allows a customer to order pizza by providing their ID, name, type, size, and quantity. It calculates the total cost and generates a receipt that includes all the details of the order. 👨‍💻
+ 
 
-## Tabla de Contenidos
+💻 **Instalación** 💻  
+1. Navigate to the folder where you want to save the project.  
+2. Open a terminal and run the following command:
+   ```bash
+   git clone https://github.com/Adam07-9-24/fundamentos-trabajo-final.git
 
-- [Características](#características)
-- [Instalación](#instalación)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Uso](#uso)
-- [Créditos](#créditos)
+Open the project with a server
 
----
 
-## Características
+## 📚 Main Technologies 📚
+This project uses the following technologies:
 
-- Visualización de todos los recibos.
-- Búsqueda de detalles de un recibo por su ID.
-- Agregar nuevos recibos al sistema.
-- Actualizar la información de un recibo existente.
-- Eliminar recibos del sistema.
-- Guardar todos los recibos en un archivo de texto (`receipts.txt`) de manera estructurada.
+| Technology | Version | Description               |
+| ---------- | ------- | ------------------------- |
+| **Python**      |  1.13.1    |  A high-level programming language used for backend development.  Language |
+| **Visual Studio Code**      | 1.95.3      | A powerful code editor for writing and editing code.   |
 
----
-## Main Technologies
+🤗 **Social Media** 🤗  
+Stay connected and explore more about my work:
 
-- `Python`: Lenguaje principal para el desarrollo.
-- `Estructura Modular`:
-  - `models/models.py`: Define la clase `Receipt` para manejar recibos.
-  - `utils/utils.py`: Contiene funciones auxiliares como `validate_unique_id`.
-  - `database/data.py`: Proporciona datos iniciales de recibos.
-  - `iu/menu.py`: Gestión del menú interactivo para el usuario.
-- `Archivos de Texto`:
-  - `receipts.txt`: Persistencia de datos estructurados de recibos.
-- `Persistencia de Datos`: Los datos ingresados permanecen tras cerrar el programa.
+- ▶️ **YouTube**: [@carloscarbajal4161](https://www.youtube.com/@carloscarbajal4161)  
+  Discover tutorials, insights, and videos about my projects.
 
+- 🐙 **GitHub**: [Adam07-9-24](https://github.com/Adam07-9-24)  
+  Check out my repositories and contributions to various projects.
